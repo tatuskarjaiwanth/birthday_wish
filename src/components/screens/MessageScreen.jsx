@@ -16,7 +16,7 @@ export default function MessageScreen({ onNext }) {
         transition={{ duration: 0.8 }}
         className="text-3xl md:text-5xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-fuchsia-400 to-purple-400 drop-shadow mb-6 leading-tight"
       >
-        A Special Message
+        A Special Message ❤️
       </motion.h2>
 
       <div className="mx-auto relative w-full max-w-3xl flex justify-center">
